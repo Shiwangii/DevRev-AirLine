@@ -13,6 +13,6 @@ DevRev-Air, a highly efficient and reliable **Backend Application** responsible 
 
 ## High Level Design 
 
-<img src="./DevRev-AirLine.png"  width="1400" height="550">
+<img src="https://github.com/Shiwangii/DevRev-AirLine/blob/main/DevRev-AirLine.png"  width="1400" height="550">
 
  
